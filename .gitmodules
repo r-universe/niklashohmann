@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DAIME"]
 	path = DAIME
 	url = https://github.com/cran/DAIME
-	shallow = true
-	registered = true
 [submodule "IPPP"]
 	path = IPPP
 	url = https://github.com/cran/IPPP
-	shallow = true
-	registered = true
